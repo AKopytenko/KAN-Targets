@@ -24,7 +24,7 @@ npm run build
 ### Предпросмотр | Preview  
 
 #### Вид для больших экранов | Desktop view  
-![](https://github.com/AKopytenko/KAN-Targets/blob/master/preview/kantargets-preview-desktop.jpg)
+![](https://github.com/AKopytenko/KAN-Targets/blob/main/preview/kantargets-preview-desktop.jpg)
 
 #### Вид для мобильных устройств | Mobile view  
-![](https://github.com/AKopytenko/KAN-Targets/blob/master/preview/kantargets-preview-mobile.jpg)
+![](https://github.com/AKopytenko/KAN-Targets/blob/main/preview/kantargets-preview-mobile.jpg)
