@@ -162,5 +162,5 @@ watch(modalShow, async () => {
 </script>
 
 <style lang="scss">
-@import '@/assets/styles/scss/components/create-target';
+@import '@/assets/styles/scss/components/create-target.scss';
 </style>
