@@ -84,10 +84,10 @@ import { ref, computed, watch } from 'vue'
 import { useTargetsStore }      from '@/stores/targets'
 import { useTranslaterStore }   from '@/stores/translater'
 
-import KTGLang          from '@/components/KTGLang'
-import KTGTarget        from '@/components/KTGTarget'
-import KTGCreateTarget  from '@/components/KTGCreateTarget'
-import KTGImportTargets from '@/components/KTGImportTargets'
+import KTGLang          from '@/components/KTGLang.vue'
+import KTGTarget        from '@/components/KTGTarget.vue'
+import KTGCreateTarget  from '@/components/KTGCreateTarget.vue'
+import KTGImportTargets from '@/components/KTGImportTargets.vue'
 
 const targetsStore      = useTargetsStore()
 const translaterStore   = useTranslaterStore()

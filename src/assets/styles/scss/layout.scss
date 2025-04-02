@@ -1,17 +1,17 @@
-@import '~bootstrap/dist/css/bootstrap.min.css';
-@import '~@fortawesome/fontawesome-free/css/all.min.css';
+@import 'bootstrap';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
 @import '@/assets/styles/scss/_variables.scss';
 @import '@/assets/styles/scss/_input.scss';
 
 body {
 
-    background-image: url('~@/assets/img/bg-body.png');
+    background-image: url('@/assets/img/bg-body.png');
     overflow-y: scroll;
 }
 
 .ktg-card {
 
-    background: url('~@/assets/img/bg-card-bottom.png') repeat-x scroll 0 100% padding-box #D2D2D2;
+    background: url('@/assets/img/bg-card-bottom.png') repeat-x scroll 0 100% padding-box #D2D2D2;
     background-clip: padding-box;
     border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
     border-image: none;
